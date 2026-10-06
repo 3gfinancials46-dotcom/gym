@@ -20,7 +20,7 @@ function Navbar() {
             </header>
 
             <button className="menu-btn">
-                ☰
+            ☰
             </button>
         </>
     );
