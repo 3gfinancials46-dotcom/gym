@@ -65,13 +65,13 @@
 }
 
 .menu-btn {
-    display: none;
     border: none;
     background: #111111;
     color: #ffffff;
     font-size: 24px;
     padding: 8px 12px;
     cursor: pointer;
+    display: flex;
     justify-content: space-between;
 }
 
